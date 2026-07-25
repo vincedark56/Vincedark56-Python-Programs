@@ -18,4 +18,4 @@ remere_z = int(rsplit[2])
 luanti_pos_x = remere_x - 32500
 luanti_pos_y = remere_y - 32000
 luanti_pos_z = remere_z - 7
-print("Luanti position X =", luanti_pos_x,", Y =", luanti_pos_z,", Z =", -luanti_pos_y * 3)
+print("Luanti position X =", luanti_pos_x,", Y =", luanti_pos_z * 3,", Z =", -luanti_pos_y)
